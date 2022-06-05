@@ -1,0 +1,15 @@
+{
+    "idCliente": {
+        "$oid": "629cc53dddb894567833c2be"
+    },
+    "idVendedor": {
+        "$oid": "629cc8a5ddb894567833c31f"
+    },
+    "idVehiculo": {
+        "$oid": "629cd257ddb894567833c35d"
+    },
+    "StatusReserva": 1,
+    "FechaSalida": {
+        "$date": "2020-05-17T00:00:00Z"
+    }
+}

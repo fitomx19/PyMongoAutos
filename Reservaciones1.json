@@ -1,0 +1,34 @@
+{{
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2d0"
+  },
+  "idVendedor": {
+    "$oid": "629cc8a5ddb894567833c340"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c36d"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": "2019-04-21T00:00:00Z"
+  },
+  "FechaIngreso": {
+    "$date": "2021-03-16T00:00:00Z"
+  }
+}
+,
+{
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2d8"
+  },
+  "idVendedor": {
+    "$oid": "629cc8a5ddb894567833c337"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c363"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": "2020-05-17T00:00:00Z"
+  }
+}}
