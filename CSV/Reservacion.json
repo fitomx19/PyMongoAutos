@@ -1,0 +1,2401 @@
+[{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127e1"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2f3"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c334"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c35c"
+  },
+  "StatusReserva": 3,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1618963200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1550361600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127e2"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c316"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c328"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c365"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1584144000000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1650412800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127e3"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2d5"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c320"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c368"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1546992000000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1613088000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127e4"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2d7"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c32d"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c352"
+  },
+  "StatusReserva": 3,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1583798400000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1548633600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127e5"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c313"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c320"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c358"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1648425600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1643241600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127e6"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2bf"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c338"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c361"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1584835200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1617235200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127e7"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2f3"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c33b"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c365"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1548115200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1553299200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127e8"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2ec"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c335"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c35c"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1580774400000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1641340800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127e9"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c313"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c331"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c36f"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1641340800000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1584835200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127ea"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2fd"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c32f"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c36b"
+  },
+  "StatusReserva": 3,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1580774400000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1552262400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127eb"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2df"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c32e"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c362"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1580169600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1546300800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127ec"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c315"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c336"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c353"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1613001600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1586476800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127ed"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c315"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c320"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c359"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1645401600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1554508800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127ee"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2c1"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c32c"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c354"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1587427200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1555027200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127ef"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2e6"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c334"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c369"
+  },
+  "StatusReserva": 3,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1650240000000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1585958400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127f0"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c305"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c341"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c352"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1613088000000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1615161600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127f1"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2c6"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c335"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c354"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1648252800000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1613347200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127f2"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2c1"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c33a"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c36f"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1582416000000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1583798400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127f3"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2e3"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c326"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c369"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1615939200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1610323200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127f4"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c309"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c33a"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c36a"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1615593600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1585267200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127f5"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2e1"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c339"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c362"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1646179200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1578009600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127f6"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2c6"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c32e"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c36f"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1642982400000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1616803200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127f7"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c318"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c321"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c35d"
+  },
+  "StatusReserva": 3,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1551052800000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1582416000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127f8"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2bf"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c340"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c365"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1618444800000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1641600000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127f9"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2c1"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c338"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c35c"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1550016000000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1582070400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127fa"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2fd"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c335"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c366"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1581638400000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1586995200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127fb"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2bb"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c331"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c358"
+  },
+  "StatusReserva": 3,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1554422400000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1585699200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127fc"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2d6"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c32a"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c368"
+  },
+  "StatusReserva": 3,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1581984000000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1646092800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127fd"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2f7"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c336"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c36e"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1586908800000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1646438400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127fe"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2d4"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c335"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c35c"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1644796800000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1555545600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b127ff"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2df"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c33d"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c35f"
+  },
+  "StatusReserva": 3,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1551916800000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1619568000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12800"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2f1"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c332"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c35c"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1617753600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1554595200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12801"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c316"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c32f"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c35f"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1581292800000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1614643200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12802"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c310"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c334"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c353"
+  },
+  "StatusReserva": 3,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1610582400000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1612569600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12803"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c311"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c32a"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c364"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1579737600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1554076800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12804"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2f2"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c328"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c366"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1645747200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1650585600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12805"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2e2"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c32b"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c365"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1553558400000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1647561600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12806"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c305"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c335"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c356"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1587772800000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1556064000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12807"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2c9"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c32f"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c361"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1546819200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1587859200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12808"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c309"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c33a"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c352"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1644105600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1556323200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12809"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2dc"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c31e"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c363"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1585180800000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1616284800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1280a"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2d8"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c31f"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c355"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1614556800000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1549324800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1280b"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c30c"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c322"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c35c"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1614297600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1584576000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1280c"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2ef"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c33c"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c363"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1554595200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1586822400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1280d"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c300"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c32d"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c358"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1550793600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1549152000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1280e"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2b8"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c32f"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c36f"
+  },
+  "StatusReserva": 3,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1612915200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1641168000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1280f"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2eb"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c323"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c35c"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1578787200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1556236800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12810"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2ef"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c33e"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c357"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1618704000000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1555632000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12811"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c311"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c324"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c36e"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1586044800000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1614384000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12812"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c308"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c335"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c359"
+  },
+  "StatusReserva": 3,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1548374400000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1586908800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12813"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c30e"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c329"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c352"
+  },
+  "StatusReserva": 3,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1610064000000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1579996800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12814"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2b9"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c32c"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c354"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1578355200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1617235200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12815"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2e4"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c33a"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c35f"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1552435200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1644192000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12816"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2ce"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c329"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c36b"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1583798400000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1648252800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12817"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2e9"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c32a"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c363"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1585267200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1555286400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12818"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c304"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c336"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c360"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1642809600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1586131200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12819"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2b9"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c337"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c36f"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1649894400000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1554076800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1281a"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2ea"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c339"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c361"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1614816000000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1581811200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1281b"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2c4"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c338"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c352"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1547337600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1644019200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1281c"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2e7"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c322"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c35e"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1645228800000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1554249600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1281d"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c308"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c330"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c368"
+  },
+  "StatusReserva": 3,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1586736000000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1650326400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1281e"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2c9"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c31e"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c36b"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1551571200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1586563200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1281f"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2f6"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c321"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c358"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1609459200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1581465600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12820"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2f7"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c339"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c361"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1547942400000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1552953600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12821"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2e3"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c33e"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c363"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1647388800000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1555286400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12822"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2fd"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c33f"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c35c"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1551744000000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1650672000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12823"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2fa"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c333"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c36e"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1583452800000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1577923200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12824"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2c7"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c321"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c369"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1648166400000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1619222400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12825"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c301"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c323"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c365"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1610841600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1549324800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12826"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2cd"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c321"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c368"
+  },
+  "StatusReserva": 3,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1580083200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1549411200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12827"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c30f"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c333"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c354"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1552435200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1647993600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12828"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2f4"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c341"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c35f"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1580169600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1578009600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12829"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2dc"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c337"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c364"
+  },
+  "StatusReserva": 3,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1580860800000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1582156800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1282a"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2bf"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c340"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c367"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1646092800000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1582416000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1282b"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2c0"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c334"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c35a"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1548979200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1644364800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1282c"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c313"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c327"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c364"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1649721600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1551830400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1282d"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2ce"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c32a"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c367"
+  },
+  "StatusReserva": 3,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1552003200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1645228800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1282e"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c301"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c339"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c35e"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1549411200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1619049600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1282f"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2f8"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c320"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c36e"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1547337600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1553126400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12830"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2f7"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c32e"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c367"
+  },
+  "StatusReserva": 3,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1609891200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1642896000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12831"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2c3"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c32b"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c36c"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1616198400000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1647993600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12832"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2d9"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c338"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c368"
+  },
+  "StatusReserva": 3,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1580774400000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1610668800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12833"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2d7"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c325"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c366"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1648252800000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1579132800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12834"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c30e"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c32c"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c366"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1578787200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1641859200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12835"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c30d"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c33a"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c355"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1577923200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1546819200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12836"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2bf"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c33a"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c357"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1614643200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1585094400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12837"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2f1"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c333"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c354"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1616025600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1615593600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12838"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2dc"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c341"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c35e"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1552608000000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1584921600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12839"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2f7"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c329"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c362"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1610755200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1552521600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1283a"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2ca"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c343"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c35c"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1581984000000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1556064000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1283b"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2fb"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c33c"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c36a"
+  },
+  "StatusReserva": 1,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1586304000000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1615852800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1283c"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2d4"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c327"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c35e"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1610928000000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1612915200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1283d"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2cd"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c331"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c369"
+  },
+  "StatusReserva": 3,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1552521600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1641081600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1283e"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2e4"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c338"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c367"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1584230400000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1650844800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b1283f"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2dd"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c33c"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c367"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1585785600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1641772800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12840"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c318"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c31d"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c353"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1619481600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1580860800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12841"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2e3"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c321"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c358"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1651017600000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1555804800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12842"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2c7"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c32b"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c362"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1579392000000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1641945600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12843"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2d0"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c32a"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c35d"
+  },
+  "StatusReserva": 2,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1581552000000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1643760000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629ceff1fdb2f724e1b12844"
+  },
+  "idCliente": {
+    "$oid": "629cc53dddb894567833c2c1"
+  },
+  "idEmpleado": {
+    "$oid": "629cc8a5ddb894567833c333"
+  },
+  "idVehiculo": {
+    "$oid": "629cd257ddb894567833c36d"
+  },
+  "StatusReserva": 0,
+  "FechaSalida": {
+    "$date": {
+      "$numberLong": "1546387200000"
+    }
+  },
+  "FechaIngreso": {
+    "$date": {
+      "$numberLong": "1610236800000"
+    }
+  }
+}]

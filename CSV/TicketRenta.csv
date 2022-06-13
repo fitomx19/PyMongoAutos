@@ -1,14 +1,14 @@
-,CostoTotal,Auto,FullName,FechaSalida,StatusReserva,0,idSucursal,SKUSucursale
-2,100165, Chevrolet Spark,Ernesto Coll Coronado,2019-03-10,3,629cd229ddb894567833c34e,629cd229ddb894567833c34c,pm25et
-4,206976, Volkswagen Vento,Gema de Guitart,2019-01-19,3,629cd229ddb894567833c34d,629cd229ddb894567833c34b,pm42lp
-9,27790, Nissan Versa,Severiano Serra Querol,2019-03-12,3,629cd229ddb894567833c34f,629cd229ddb894567833c34f,pm36eg
-10,66264, Chevrolet Aveo,Gema de Guitart,2019-03-09,3,629cd229ddb894567833c34b,629cd229ddb894567833c34c,pm25et
-14,96681, Nissan Sentra,Felisa Quintana Alsina,2019-01-10,3,629cd229ddb894567833c34e,629cd229ddb894567833c34d,pm7am
-15,318912, Volkswagen Vento,Evangelina Roman Coronado,2019-01-02,3,629cd229ddb894567833c34d,629cd229ddb894567833c34f,pm36eg
-21,146120, Chevrolet Aveo,Herminia Sierra-Fonseca,2019-01-15,3,629cd229ddb894567833c34c,629cd229ddb894567833c34b,pm42lp
-24,193314, Renault Kwid,Emigdio Rogelio Cuenca Roca,2019-02-05,3,629cd229ddb894567833c34f,629cd229ddb894567833c34b,pm42lp
-31,122400, Chevrolet Aveo,Emiliana Nebot Cervera,2019-02-25,3,629cd229ddb894567833c34c,629cd229ddb894567833c34e,pm14ra
-32,349271, Renault Stepway,Celestina Ibarra-Durán,2019-01-01,3,629cd229ddb894567833c34d,629cd229ddb894567833c34b,pm42lp
-34,40740, Nissan March,Luís Agustí Canales,2019-01-27,3,629cd229ddb894567833c34c,629cd229ddb894567833c34f,pm36eg
-37,89280, Chevrolet Spark,Luz de Navas,2019-01-04,3,629cd229ddb894567833c34d,629cd229ddb894567833c34b,pm42lp
-38,13248, Chevrolet Spark,Melchor Rolando Sans Donaire,2019-02-19,3,629cd229ddb894567833c34c,629cd229ddb894567833c34f,pm36eg
+,CostoTotal,Auto,FullName,FechaSalida,StatusReserva,idSucursal,SKUSucursale
+2,130650, Chevrolet Spark,Ernesto Coll Coronado,2019-02-16,3,629cd229ddb894567833c34e,pm14ra
+4,243584, Volkswagen Vento,Gema de Guitart,2019-02-04,3,629cd229ddb894567833c34d,pm7am
+9,308072, Nissan Versa,Severiano Serra Querol,2019-03-15,3,629cd229ddb894567833c34f,pm36eg
+10,192768, Chevrolet Aveo,Gema de Guitart,2019-01-06,3,629cd229ddb894567833c34b,pm42lp
+14,165490, Nissan Sentra,Felisa Quintana Alsina,2019-02-24,3,629cd229ddb894567833c34e,pm14ra
+15,73920, Volkswagen Vento,Evangelina Roman Coronado,2019-02-21,3,629cd229ddb894567833c34d,pm7am
+21,217360, Chevrolet Aveo,Herminia Sierra-Fonseca,2019-02-09,3,629cd229ddb894567833c34c,pm25et
+24,202884, Renault Kwid,Emigdio Rogelio Cuenca Roca,2019-03-10,3,629cd229ddb894567833c34f,pm36eg
+31,66240, Chevrolet Aveo,Emiliana Nebot Cervera,2019-01-20,3,629cd229ddb894567833c34c,pm25et
+32,199459, Renault Stepway,Celestina Ibarra-Durán,2019-01-06,3,629cd229ddb894567833c34d,pm7am
+34,95340, Nissan March,Luís Agustí Canales,2019-01-16,3,629cd229ddb894567833c34c,pm25et
+37,97632, Chevrolet Spark,Luz de Navas,2019-02-15,3,629cd229ddb894567833c34d,pm7am
+38,115488, Chevrolet Spark,Melchor Rolando Sans Donaire,2019-01-07,3,629cd229ddb894567833c34c,pm25et
